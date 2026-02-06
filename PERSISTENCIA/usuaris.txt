@@ -1,0 +1,6 @@
+madalin|12345|admin
+xevi|12345|recepcio
+marc|12345|client
+joan|Joan1234_#|recepcio
+marti|Marti12345@|client
+alex|Alex12345|client

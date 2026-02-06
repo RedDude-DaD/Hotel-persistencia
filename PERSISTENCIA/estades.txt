@@ -1,0 +1,3 @@
+1|1111111x|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-03|10:10|2026-02-04|10:10|61.5|68.88000000000001|Bugaderia,Esmorzar|1|Portugal
+1|1111111x|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-04|10:10|2026-02-06|10:10|129.5|150.22|Bugaderia,Bugaderia,Esmorzar,Sopar|1|Espanya
+1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|2026-02-08|12:00|143.9|143.9|Bugaderia,Esmorzar,Dinar,Bugaderia,Esmorzar|1|Andorra

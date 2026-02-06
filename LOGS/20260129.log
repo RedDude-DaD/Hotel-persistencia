@@ -1,0 +1,25 @@
+08:45:44.141874500     src/PERSISTENCIA/serveis.txt     checked if Bugaderia exists in file
+08:45:44.146310600     src/PERSISTENCIA/serveis.txt     checked if Esmorzar exists in file
+08:45:44.148315100     src/PERSISTENCIA/serveis.txt     checked if Dinar exists in file
+08:45:44.150310100     src/PERSISTENCIA/serveis.txt     checked if Sopar exists in file
+08:45:44.150310100     src/MODEL/Servei.java     Created services instances
+08:45:44.157076600     src/PERSISTENCIA/clients.txt     checked if 1111111x exists in file
+08:45:44.159078200     src/PERSISTENCIA/clients.txt     checked if 1234567X exists in file
+08:45:44.159078200     src/MODEL/Client.java     Created client instances
+08:45:44.163594100     src/PERSISTENCIA/habitacions.txt     checked if 1 1 exists in file
+08:45:44.165601300     src/PERSISTENCIA/habitacions.txt     checked if 1 3 exists in file
+08:45:44.165601300     src/MODEL/Habitacion.java     Created room instances
+09:02:48.042345     src/PERSISTENCIA/serveis.txt     checked if Bugaderia exists in file
+09:02:48.048356100     src/PERSISTENCIA/serveis.txt     checked if Esmorzar exists in file
+09:02:48.049359300     src/PERSISTENCIA/serveis.txt     checked if Dinar exists in file
+09:02:48.051136600     src/PERSISTENCIA/serveis.txt     checked if Sopar exists in file
+09:02:48.052660700     src/MODEL/Servei.java     Created services instances
+09:02:48.058695600     src/PERSISTENCIA/clients.txt     checked if 1111111x exists in file
+09:02:48.059696300     src/PERSISTENCIA/clients.txt     checked if 1234567X exists in file
+09:02:48.059696300     src/MODEL/Client.java     Created client instances
+09:02:48.063206600     src/PERSISTENCIA/habitacions.txt     checked if 1 1 exists in file
+09:02:48.065217     src/PERSISTENCIA/habitacions.txt     checked if 1 3 exists in file
+09:02:48.065217     src/MODEL/Habitacion.java     Created room instances
+09:02:53.049405600     src/PERSISTENCIA/usuaris.txt     tried to login with name xevi was able to true
+09:03:10.568458700     src/PERSISTENCIA/usuaris.txt     deleted line Madalin|1234567X|2007-01-15|false
+09:03:10.569410700     src/PERSISTENCIA/clients.txt     added line Madalin|1234567X|2007-02-15|false

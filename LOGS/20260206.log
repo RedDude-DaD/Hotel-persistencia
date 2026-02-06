@@ -1,0 +1,80 @@
+08:18:58.578677     src/PERSISTENCIA/serveis.txt     checked if Bugaderia exists in file
+08:18:58.587201900     src/PERSISTENCIA/serveis.txt     checked if Esmorzar exists in file
+08:18:58.590211600     src/PERSISTENCIA/serveis.txt     checked if Dinar exists in file
+08:18:58.592200200     src/PERSISTENCIA/serveis.txt     checked if Sopar exists in file
+08:18:58.593710600     src/MODEL/Servei.java     Created services instances
+08:18:58.605543700     src/PERSISTENCIA/clients.txt     checked if 1234567X exists in file
+08:18:58.608543100     src/PERSISTENCIA/clients.txt     checked if 1111111x exists in file
+08:18:58.608543100     src/MODEL/Client.java     Created client instances
+08:18:58.615983     src/PERSISTENCIA/habitacions.txt     checked if 1 3 exists in file
+08:18:58.619999400     src/PERSISTENCIA/habitacions.txt     checked if 1 1 exists in file
+08:18:58.619999400     src/MODEL/Habitacion.java     Created room instances
+08:18:58.626501600     src/MODEL/Estada.java     Created estada instances
+08:19:07.820626900     src/PERSISTENCIA/usuaris.txt     tried to login with name madalin was able to true
+08:19:16.203005500     src/MODEL/Usuari.java     Created users instances
+08:19:52.077900400     src/PERSISTENCIA/usuaris.txt     checked if alex exists in file
+08:20:18.257385500     src/PERSISTENCIA/usuaris.txt     added line alex|Alex12345|client
+08:20:20.640057     src/MODEL/Usuari.java     Created users instances
+08:21:34.260116100     src/PERSISTENCIA/usuaris.txt     tried to login with name alex was able to true
+08:21:36.610275800     src/PERSISTENCIA/clients.txt     checked if alex exists in file
+08:21:45.829904600     src/PERSISTENCIA/usuaris.txt     tried to login with name xevi was able to true
+08:22:12.169518500     src/PERSISTENCIA/clients.txt     checked if 12312312B exists in file
+08:22:25.570033     src/PERSISTENCIA/clients.txt     checked if 12312312B exists in file
+08:22:25.576077400     src/PERSISTENCIA/clients.txt     added line alex|12312312B|2007-05-17|false
+08:23:10.678812900     src/PERSISTENCIA/clients.txt     deleted line alex|12312312B|2007-05-17|false
+08:23:10.679813     src/PERSISTENCIA/clients.txt     added line alex|12312312B|2007-05-17|true
+08:23:13.082102800     src/PERSISTENCIA/habitacions.txt     deleted line 1|1|40.0|false
+08:23:13.083101300     src/PERSISTENCIA/habitacions.txt     added line 1|1|40.0|true
+08:23:20.003473200     src/PERSISTENCIA/estades.txt     added line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|0.0|0.0|null|0|Andorra
+08:23:48.654421900     src/PERSISTENCIA/usuaris.txt     tried to login with name alex was able to true
+08:23:51.869859200     src/PERSISTENCIA/clients.txt     checked if alex exists in file
+08:23:51.871858900     src/PERSISTENCIA/clients.txt     checked if alex exists in file
+08:23:54.450361200     src/PERSISTENCIA/clients.txt     checked if alex exists in file
+08:23:54.451359800     src/PERSISTENCIA/clients.txt     checked if alex exists in file
+08:24:03.922688400     src/PERSISTENCIA/usuaris.txt     tried to login with name xevi was able to true
+08:24:18.630023     src/PERSISTENCIA/estades.txt     deleted line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|0.0|0.0|null|0|Andorra
+08:24:18.630023     src/PERSISTENCIA/estades.txt     added line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|0.0|0.0|Bugaderia|0|Andorra
+08:24:18.636023200     src/PERSISTENCIA/estades.txt     deleted line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|0.0|0.0|Bugaderia|0|Andorra
+08:24:18.636023200     src/PERSISTENCIA/estades.txt     added line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|10.0|0.0|Bugaderia|0|Andorra
+08:24:20.059844600     src/PERSISTENCIA/estades.txt     deleted line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|10.0|0.0|Bugaderia|0|Andorra
+08:24:20.060843200     src/PERSISTENCIA/estades.txt     added line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|10.0|0.0|Bugaderia,Esmorzar|0|Andorra
+08:24:20.065503300     src/PERSISTENCIA/estades.txt     deleted line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|10.0|0.0|Bugaderia,Esmorzar|0|Andorra
+08:24:20.066516     src/PERSISTENCIA/estades.txt     added line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|21.5|0.0|Bugaderia,Esmorzar|0|Andorra
+08:24:21.669831100     src/PERSISTENCIA/estades.txt     deleted line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|21.5|0.0|Bugaderia,Esmorzar|0|Andorra
+08:24:21.670830500     src/PERSISTENCIA/estades.txt     added line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|21.5|0.0|Bugaderia,Esmorzar,Dinar|0|Andorra
+08:24:21.674872300     src/PERSISTENCIA/estades.txt     deleted line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|21.5|0.0|Bugaderia,Esmorzar,Dinar|0|Andorra
+08:24:21.675827900     src/PERSISTENCIA/estades.txt     added line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|42.4|0.0|Bugaderia,Esmorzar,Dinar|0|Andorra
+08:24:23.248950300     src/PERSISTENCIA/estades.txt     deleted line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|42.4|0.0|Bugaderia,Esmorzar,Dinar|0|Andorra
+08:24:23.249951300     src/PERSISTENCIA/estades.txt     added line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|42.4|0.0|Bugaderia,Esmorzar,Dinar,Bugaderia|0|Andorra
+08:24:23.253535     src/PERSISTENCIA/estades.txt     deleted line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|42.4|0.0|Bugaderia,Esmorzar,Dinar,Bugaderia|0|Andorra
+08:24:23.254490500     src/PERSISTENCIA/estades.txt     added line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|52.4|0.0|Bugaderia,Esmorzar,Dinar,Bugaderia|0|Andorra
+08:24:24.939913600     src/PERSISTENCIA/estades.txt     deleted line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|52.4|0.0|Bugaderia,Esmorzar,Dinar,Bugaderia|0|Andorra
+08:24:24.939913600     src/PERSISTENCIA/estades.txt     added line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|52.4|0.0|Bugaderia,Esmorzar,Dinar,Bugaderia,Esmorzar|0|Andorra
+08:24:24.944428900     src/PERSISTENCIA/estades.txt     deleted line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|52.4|0.0|Bugaderia,Esmorzar,Dinar,Bugaderia,Esmorzar|0|Andorra
+08:24:24.945439100     src/PERSISTENCIA/estades.txt     added line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|63.9|0.0|Bugaderia,Esmorzar,Dinar,Bugaderia,Esmorzar|0|Andorra
+08:24:40.273867     src/PERSISTENCIA/estades.txt     deleted line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|null|null|63.9|0.0|Bugaderia,Esmorzar,Dinar,Bugaderia,Esmorzar|0|Andorra
+08:24:40.274878100     src/PERSISTENCIA/estades.txt     added line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|2026-02-08|null|63.9|0.0|Bugaderia,Esmorzar,Dinar,Bugaderia,Esmorzar|0|Andorra
+08:24:44.231343900     src/PERSISTENCIA/estades.txt     deleted line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|2026-02-08|null|63.9|0.0|Bugaderia,Esmorzar,Dinar,Bugaderia,Esmorzar|0|Andorra
+08:24:44.232340300     src/PERSISTENCIA/estades.txt     added line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|2026-02-08|12:00|63.9|0.0|Bugaderia,Esmorzar,Dinar,Bugaderia,Esmorzar|0|Andorra
+08:24:44.236452     src/PERSISTENCIA/estades.txt     deleted line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|2026-02-08|12:00|63.9|0.0|Bugaderia,Esmorzar,Dinar,Bugaderia,Esmorzar|0|Andorra
+08:24:44.237460800     src/PERSISTENCIA/estades.txt     added line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|2026-02-08|12:00|143.9|0.0|Bugaderia,Esmorzar,Dinar,Bugaderia,Esmorzar|0|Andorra
+08:24:44.242460900     src/PERSISTENCIA/estades.txt     deleted line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|2026-02-08|12:00|143.9|0.0|Bugaderia,Esmorzar,Dinar,Bugaderia,Esmorzar|0|Andorra
+08:24:44.243491300     src/PERSISTENCIA/estades.txt     added line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|2026-02-08|12:00|143.9|143.9|Bugaderia,Esmorzar,Dinar,Bugaderia,Esmorzar|0|Andorra
+08:24:44.246981     src/PERSISTENCIA/habitacions.txt     deleted line 1|1|40.0|true
+08:24:44.247983     src/PERSISTENCIA/habitacions.txt     added line 1|1|40.0|false
+08:24:44.250983500     src/PERSISTENCIA/clients.txt     deleted line alex|12312312B|2007-05-17|true
+08:24:44.251981800     src/PERSISTENCIA/clients.txt     added line alex|12312312B|2007-05-17|false
+08:24:44.255538300     src/PERSISTENCIA/estades.txt     deleted line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|2026-02-08|12:00|143.9|143.9|Bugaderia,Esmorzar,Dinar,Bugaderia,Esmorzar|0|Andorra
+08:24:44.256538100     src/PERSISTENCIA/estades.txt     added line 1|12312312B|1|1|Bugaderia,Esmorzar,Dinar,Sopar|2026-02-06|10:10|2026-02-08|12:00|143.9|143.9|Bugaderia,Esmorzar,Dinar,Bugaderia,Esmorzar|1|Andorra
+08:26:43.122427700     src/PERSISTENCIA/usuaris.txt     tried to login with name alex was able to true
+08:26:45.389485500     src/PERSISTENCIA/clients.txt     checked if alex exists in file
+08:26:45.390499600     src/PERSISTENCIA/clients.txt     checked if alex exists in file
+08:26:46.944035200     src/PERSISTENCIA/clients.txt     checked if alex exists in file
+08:26:46.945023600     src/PERSISTENCIA/clients.txt     checked if alex exists in file
+08:27:16.275210300     src/PERSISTENCIA/usuaris.txt     tried to login with name xevi was able to true
+08:27:34.963962500     src/PERSISTENCIA/habitacions.txt     deleted line 1|1|40.0|false
+08:27:34.964963900     src/PERSISTENCIA/habitacions.txt     added line 1|1|41.0|false
+08:27:45.129488100     src/PERSISTENCIA/usuaris.txt     tried to login with name alex was able to false
+08:27:49.554647800     src/PERSISTENCIA/usuaris.txt     tried to login with name alex was able to true
+08:27:50.605428     src/PERSISTENCIA/clients.txt     checked if alex exists in file
+08:27:50.606437600     src/PERSISTENCIA/clients.txt     checked if alex exists in file

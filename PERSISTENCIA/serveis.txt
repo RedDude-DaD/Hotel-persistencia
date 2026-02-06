@@ -1,0 +1,4 @@
+Bugaderia|10.0
+Esmorzar|11.5
+Dinar|20.9
+Sopar|18.0
