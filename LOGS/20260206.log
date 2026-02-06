@@ -78,3 +78,95 @@
 08:27:49.554647800     src/PERSISTENCIA/usuaris.txt     tried to login with name alex was able to true
 08:27:50.605428     src/PERSISTENCIA/clients.txt     checked if alex exists in file
 08:27:50.606437600     src/PERSISTENCIA/clients.txt     checked if alex exists in file
+08:41:45.620521     src/PERSISTENCIA/serveis.txt     checked if Bugaderia exists in file
+08:41:45.626047500     src/PERSISTENCIA/serveis.txt     checked if Esmorzar exists in file
+08:41:45.630050100     src/PERSISTENCIA/serveis.txt     checked if Dinar exists in file
+08:41:45.631049100     src/PERSISTENCIA/serveis.txt     checked if Sopar exists in file
+08:41:45.631049100     src/MODEL/Servei.java     Created services instances
+08:41:45.637536800     src/PERSISTENCIA/clients.txt     checked if 1234567X exists in file
+08:41:45.638535500     src/PERSISTENCIA/clients.txt     checked if 1111111x exists in file
+08:41:45.639534600     src/PERSISTENCIA/clients.txt     checked if 12312312B exists in file
+08:41:45.640538300     src/MODEL/Client.java     Created client instances
+08:41:45.644051300     src/PERSISTENCIA/habitacions.txt     checked if 1 3 exists in file
+08:41:45.645054200     src/PERSISTENCIA/habitacions.txt     checked if 1 1 exists in file
+08:41:45.646084100     src/MODEL/Habitacion.java     Created room instances
+08:41:45.650050700     src/MODEL/Estada.java     Created estada instances
+08:41:49.675717900     src/PERSISTENCIA/usuaris.txt     tried to login with name xevi was able to true
+08:42:06.535205900     src/PERSISTENCIA/clients.txt     deleted line Marc|1111111x|1998-02-25|false
+08:42:06.536317500     src/PERSISTENCIA/clients.txt     added line Marc|1111111x|1998-02-25|true
+08:42:08.676386500     src/PERSISTENCIA/habitacions.txt     deleted line 1|3|30.0|false
+08:42:08.676386500     src/PERSISTENCIA/habitacions.txt     added line 1|3|30.0|true
+08:42:11.860596200     src/PERSISTENCIA/estades.txt     added line 0|1111111x|1|3|Bugaderia|2026-02-02|10:10|null|null|0.0|0.0|null|0|Espanya
+08:45:38.314275     src/PERSISTENCIA/serveis.txt     checked if Bugaderia exists in file
+08:45:38.318271800     src/PERSISTENCIA/serveis.txt     checked if Esmorzar exists in file
+08:45:38.319272900     src/PERSISTENCIA/serveis.txt     checked if Dinar exists in file
+08:45:38.321394700     src/PERSISTENCIA/serveis.txt     checked if Sopar exists in file
+08:45:38.321394700     src/MODEL/Servei.java     Created services instances
+08:45:38.326456900     src/PERSISTENCIA/clients.txt     checked if 1234567X exists in file
+08:45:38.326456900     src/PERSISTENCIA/clients.txt     checked if 12312312B exists in file
+08:45:38.327802700     src/PERSISTENCIA/clients.txt     checked if 1111111x exists in file
+08:45:38.327802700     src/MODEL/Client.java     Created client instances
+08:45:38.331882600     src/PERSISTENCIA/habitacions.txt     checked if 1 1 exists in file
+08:45:38.333226200     src/PERSISTENCIA/habitacions.txt     checked if 1 3 exists in file
+08:45:38.333737     src/MODEL/Habitacion.java     Created room instances
+08:45:38.337316500     src/MODEL/Estada.java     Created estada instances
+08:45:57.932558900     src/PERSISTENCIA/serveis.txt     checked if Bugaderia exists in file
+08:45:57.936563     src/PERSISTENCIA/serveis.txt     checked if Esmorzar exists in file
+08:45:57.937563200     src/PERSISTENCIA/serveis.txt     checked if Dinar exists in file
+08:45:57.939563300     src/PERSISTENCIA/serveis.txt     checked if Sopar exists in file
+08:45:57.939563300     src/MODEL/Servei.java     Created services instances
+08:45:57.945081400     src/PERSISTENCIA/clients.txt     checked if 1234567X exists in file
+08:45:57.946077500     src/PERSISTENCIA/clients.txt     checked if 12312312B exists in file
+08:45:57.947081700     src/PERSISTENCIA/clients.txt     checked if 1111111x exists in file
+08:45:57.947081700     src/MODEL/Client.java     Created client instances
+08:45:57.950081900     src/PERSISTENCIA/habitacions.txt     checked if 1 1 exists in file
+08:45:57.951593200     src/PERSISTENCIA/habitacions.txt     checked if 1 3 exists in file
+08:45:57.951593200     src/MODEL/Habitacion.java     Created room instances
+08:45:57.955604800     src/MODEL/Estada.java     Created estada instances
+08:48:29.224501500     src/PERSISTENCIA/serveis.txt     checked if Bugaderia exists in file
+08:48:29.232029500     src/PERSISTENCIA/serveis.txt     checked if Esmorzar exists in file
+08:48:29.234026500     src/PERSISTENCIA/serveis.txt     checked if Dinar exists in file
+08:48:29.236026900     src/PERSISTENCIA/serveis.txt     checked if Sopar exists in file
+08:48:29.237026100     src/MODEL/Servei.java     Created services instances
+08:48:29.243539500     src/PERSISTENCIA/clients.txt     checked if 1234567X exists in file
+08:48:29.245540100     src/PERSISTENCIA/clients.txt     checked if 12312312B exists in file
+08:48:29.246540300     src/PERSISTENCIA/clients.txt     checked if 1111111x exists in file
+08:48:29.247555500     src/MODEL/Client.java     Created client instances
+08:48:29.251167600     src/PERSISTENCIA/habitacions.txt     checked if 1 1 exists in file
+08:48:29.252166200     src/PERSISTENCIA/habitacions.txt     checked if 1 3 exists in file
+08:48:29.252166200     src/MODEL/Habitacion.java     Created room instances
+08:48:29.257162200     src/MODEL/Estada.java     Created estada instances
+08:48:34.568035400     src/PERSISTENCIA/usuaris.txt     tried to login with name xevi was able to true
+08:48:59.011226800     src/PERSISTENCIA/clients.txt     deleted line Madalin|1234567X|2007-02-15|false
+08:48:59.012224400     src/PERSISTENCIA/clients.txt     added line Madalin|1234567X|2007-02-15|true
+08:49:01.666067100     src/PERSISTENCIA/habitacions.txt     deleted line 1|1|41.0|false
+08:49:01.667067200     src/PERSISTENCIA/habitacions.txt     added line 1|1|41.0|true
+08:49:04.730789800     src/PERSISTENCIA/estades.txt     added line 4|1234567X|1|1|Bugaderia|2026-02-06|10:10|null|null|0.0|0.0|null|0|Franca
+08:49:41.223686800     src/PERSISTENCIA/estades.txt     deleted line 3|1111111x|1|3|Bugaderia|2026-02-02|10:10|null|null|0.0|0.0|null|0|Espanya
+08:49:41.224932900     src/PERSISTENCIA/estades.txt     added line 3|1111111x|1|3|Bugaderia|2026-02-02|10:10|2026-02-03|null|0.0|0.0|null|0|Espanya
+08:49:43.513033300     src/PERSISTENCIA/estades.txt     deleted line 3|1111111x|1|3|Bugaderia|2026-02-02|10:10|2026-02-03|null|0.0|0.0|null|0|Espanya
+08:49:43.514035400     src/PERSISTENCIA/estades.txt     added line 3|1111111x|1|3|Bugaderia|2026-02-02|10:10|2026-02-03|10:10|0.0|0.0|null|0|Espanya
+08:49:43.519034600     src/PERSISTENCIA/estades.txt     deleted line 3|1111111x|1|3|Bugaderia|2026-02-02|10:10|2026-02-03|10:10|0.0|0.0|null|0|Espanya
+08:49:43.520031300     src/PERSISTENCIA/estades.txt     added line 3|1111111x|1|3|Bugaderia|2026-02-02|10:10|2026-02-03|10:10|30.0|0.0|null|0|Espanya
+08:49:43.525552200     src/PERSISTENCIA/estades.txt     deleted line 3|1111111x|1|3|Bugaderia|2026-02-02|10:10|2026-02-03|10:10|30.0|0.0|null|0|Espanya
+08:49:43.525552200     src/PERSISTENCIA/estades.txt     added line 3|1111111x|1|3|Bugaderia|2026-02-02|10:10|2026-02-03|10:10|30.0|34.8|null|0|Espanya
+08:49:43.530551600     src/PERSISTENCIA/habitacions.txt     deleted line 1|3|30.0|true
+08:49:43.532061300     src/PERSISTENCIA/habitacions.txt     added line 1|3|30.0|false
+08:49:43.535067800     src/PERSISTENCIA/clients.txt     deleted line Marc|1111111x|1998-02-25|true
+08:49:43.536073600     src/PERSISTENCIA/clients.txt     added line Marc|1111111x|1998-02-25|false
+08:49:43.540067100     src/PERSISTENCIA/estades.txt     deleted line 3|1111111x|1|3|Bugaderia|2026-02-02|10:10|2026-02-03|10:10|30.0|34.8|null|0|Espanya
+08:49:43.541076500     src/PERSISTENCIA/estades.txt     added line 3|1111111x|1|3|Bugaderia|2026-02-02|10:10|2026-02-03|10:10|30.0|34.8|null|1|Espanya
+08:49:57.059331500     src/PERSISTENCIA/estades.txt     deleted line 4|1234567X|1|1|Bugaderia|2026-02-06|10:10|null|null|0.0|0.0|null|0|Franca
+08:49:57.059331500     src/PERSISTENCIA/estades.txt     added line 4|1234567X|1|1|Bugaderia|2026-02-06|10:10|2026-02-07|null|0.0|0.0|null|0|Franca
+08:49:58.881608100     src/PERSISTENCIA/estades.txt     deleted line 4|1234567X|1|1|Bugaderia|2026-02-06|10:10|2026-02-07|null|0.0|0.0|null|0|Franca
+08:49:58.883120200     src/PERSISTENCIA/estades.txt     added line 4|1234567X|1|1|Bugaderia|2026-02-06|10:10|2026-02-07|10:10|0.0|0.0|null|0|Franca
+08:49:58.890650500     src/PERSISTENCIA/estades.txt     deleted line 4|1234567X|1|1|Bugaderia|2026-02-06|10:10|2026-02-07|10:10|0.0|0.0|null|0|Franca
+08:49:58.891650900     src/PERSISTENCIA/estades.txt     added line 4|1234567X|1|1|Bugaderia|2026-02-06|10:10|2026-02-07|10:10|41.0|0.0|null|0|Franca
+08:49:58.898701800     src/PERSISTENCIA/estades.txt     deleted line 4|1234567X|1|1|Bugaderia|2026-02-06|10:10|2026-02-07|10:10|41.0|0.0|null|0|Franca
+08:49:58.899696700     src/PERSISTENCIA/estades.txt     added line 4|1234567X|1|1|Bugaderia|2026-02-06|10:10|2026-02-07|10:10|41.0|44.28|null|0|Franca
+08:49:58.905225     src/PERSISTENCIA/habitacions.txt     deleted line 1|1|41.0|true
+08:49:58.906227600     src/PERSISTENCIA/habitacions.txt     added line 1|1|41.0|false
+08:49:58.912225300     src/PERSISTENCIA/clients.txt     deleted line Madalin|1234567X|2007-02-15|true
+08:49:58.913226     src/PERSISTENCIA/clients.txt     added line Madalin|1234567X|2007-02-15|false
+08:49:58.920268300     src/PERSISTENCIA/estades.txt     deleted line 4|1234567X|1|1|Bugaderia|2026-02-06|10:10|2026-02-07|10:10|41.0|44.28|null|0|Franca
+08:49:58.921271900     src/PERSISTENCIA/estades.txt     added line 4|1234567X|1|1|Bugaderia|2026-02-06|10:10|2026-02-07|10:10|41.0|44.28|null|1|Franca

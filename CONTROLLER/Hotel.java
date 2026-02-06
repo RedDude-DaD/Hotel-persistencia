@@ -17,7 +17,6 @@ public class Hotel {
 // crear Scanner
     static Scanner sc = new Scanner(System.in);
     static boolean exitProgram = true;
-    static int estadaCount = 0;
 // crear array lists d'objectes
     static ArrayList<Client> clients = new ArrayList();
     static ArrayList<Habitacio> habitacions = new ArrayList();
@@ -815,10 +814,8 @@ public class Hotel {
 
 // obj estada es crea i es afageix en l'arraylist 
     static void addEstada() {
-        estadaCount++;
         // crear estada selecionant un client, habitacio i els serveis que vol el client
         // ask for time and date 
-
         System.out.print("Entra la data del checkin. (YYYY MM DD): ");
         int year = sc.nextInt();
         int month = sc.nextInt();
@@ -832,7 +829,7 @@ public class Hotel {
 
         System.out.print("Entra el pais del Hotel (Espanya | Franca | Andorra | Portugal): ");
         String paisEstada = sc.next();
-        estades.add(new Estada(estadaCount, entradaTemps, entradaData, paisEstada.toLowerCase()));
+        estades.add(new Estada(estades.size(), entradaTemps, entradaData, paisEstada.toLowerCase()));
 
         listClientEstada();
         //--------------------------------------------------------------------------------------
@@ -891,7 +888,7 @@ public class Hotel {
                 }
             }
         }
-        addLine("src/PERSISTENCIA/estades.txt", estadaCount + "|" + clients.get(clientChosen).getNif() + "|"
+        addLine("src/PERSISTENCIA/estades.txt", estades.getLast().getIdEstada() + "|" + clients.get(clientChosen).getNif() + "|"
                 + habitacions.get(habChosen).getPlanta() + "|" + habitacions.get(habChosen).getNumero() + "|"
                 + estades.getLast().showEstadaServeis() + "|" + entradaData + "|" + entradaTemps + "|" + "null"
                 + "|" + "null" + "|" + "0.0" + "|" + "0.0" + "|" + "null" + "|" + "0" + "|" + paisEstada);
